@@ -6,13 +6,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // Skapar enum variabler för olika växtnamn
-        NamnPåVäxter växtIgge = NamnPåVäxter.IGGE;
-        NamnPåVäxter växtLaura = NamnPåVäxter.LAURA;
-        NamnPåVäxter växtMeatloaf = NamnPåVäxter.MEATLOAF;
-        NamnPåVäxter växtOlof = NamnPåVäxter.OLOF;
-
-
         // objekt där det skapas instanser av olika växttyper och tilldelar dem variabler
         Växter igge = new Kaktusar("igge", 0.02);
         Växter laura = new Palmer("laura", 5);
@@ -44,10 +37,12 @@ public class Main {
 
         // Hanterar undantag om ett ogiltigt växtnamn anges
         } catch (IllegalArgumentException e) {
-            JOptionPane.showMessageDialog(null,"Namnet du angav " + växtensNamn + " hittades inte i systemet");
-            // Lista över alla giltiga namn
-            JOptionPane.showMessageDialog(null,"Greenest Namnlista:\n" + växtIgge +"\n" + växtLaura
-          + "\n" + växtMeatloaf + "\n" +växtOlof);
+            JOptionPane.showMessageDialog(null,"Tyvärr namnet " + växtensNamn + " hittades inte i systemet");
+            JOptionPane.showMessageDialog(null,"Greenest namnlista:\n" + NamnPåVäxter.IGGE + "\n" + NamnPåVäxter.LAURA
+                    + "\n" + NamnPåVäxter.MEATLOAF + "\n" + NamnPåVäxter.OLOF);
+        // Hanterar undantag om användaren stänger av programmet
+        } catch (NullPointerException e) {
+            JOptionPane.showMessageDialog(null,"Du har stängt av programmet");
 
         }
     }

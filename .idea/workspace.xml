@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="defd3584-83b7-4c50-9f7b-8f2acc05a802" name="Changes" comment="" />
+    <list default="true" id="defd3584-83b7-4c50-9f7b-8f2acc05a802" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inlämingsuppgifter/uppgift1Greenest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämingsuppgifter/uppgift1Greenest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inlämingsuppgifter/uppgift1Greenest/NamnPåVäxter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämingsuppgifter/uppgift1Greenest/NamnPåVäxter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +24,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2W1f6G0s9ePLUE6IfTmWqIBduI4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,6 +48,8 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/samii/OneDrive/Skrivbord/javascript läxor/IdeaProjects/OOP_homework&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -56,7 +66,7 @@
       <recent name="Inlämingsuppgifter.uppgift1Greenest" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.VäxterTest">
     <configuration name="VäxterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOP_homework" />
       <extension name="coverage">
@@ -171,7 +181,14 @@
       <workItem from="1696406459968" duration="821000" />
       <workItem from="1696407297947" duration="1638000" />
       <workItem from="1696409179435" duration="7156000" />
-      <workItem from="1696425517499" duration="4473000" />
+      <workItem from="1696425517499" duration="5682000" />
+      <workItem from="1696442961361" duration="982000" />
+      <workItem from="1696444586870" duration="1444000" />
+      <workItem from="1696446076798" duration="5000" />
+      <workItem from="1696446295404" duration="97000" />
+      <workItem from="1696446402115" duration="100000" />
+      <workItem from="1696446703262" duration="239000" />
+      <workItem from="1696447016892" duration="2291000" />
     </task>
     <servers />
   </component>
