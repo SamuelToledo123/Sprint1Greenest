@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="defd3584-83b7-4c50-9f7b-8f2acc05a802" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2W1f6G0s9ePLUE6IfTmWqIBduI4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/samii/OneDrive/Skrivbord/javascript läxor/IdeaProjects/OOP_homework/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Inlämingsuppgifter.uppgift1Greenest" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="VäxterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inlämingsuppgifter.uppgift1Greenest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Inlämingsuppgifter.uppgift1Greenest" />
+      <option name="MAIN_CLASS_NAME" value="Inlämingsuppgifter.uppgift1Greenest.VäxterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VäxterTest.testKaktusMängdNäringsVätska" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inlämingsuppgifter.uppgift1Greenest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Inlämingsuppgifter.uppgift1Greenest" />
+      <option name="MAIN_CLASS_NAME" value="Inlämingsuppgifter.uppgift1Greenest.VäxterTest" />
+      <option name="METHOD_NAME" value="testKaktusMängdNäringsVätska" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VäxterTest.testKöttättandeväxterMängdNäringsVätska" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inlämingsuppgifter.uppgift1Greenest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Inlämingsuppgifter.uppgift1Greenest" />
+      <option name="MAIN_CLASS_NAME" value="Inlämingsuppgifter.uppgift1Greenest.VäxterTest" />
+      <option name="METHOD_NAME" value="testKöttättandeväxterMängdNäringsVätska" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VäxterTest.testPalmMängdNäringsVätska" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inlämingsuppgifter.uppgift1Greenest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Inlämingsuppgifter.uppgift1Greenest" />
+      <option name="MAIN_CLASS_NAME" value="Inlämingsuppgifter.uppgift1Greenest.VäxterTest" />
+      <option name="METHOD_NAME" value="testPalmMängdNäringsVätska" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VäxterTest.testPalmTypNäringsVätska" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOP_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inlämingsuppgifter.uppgift1Greenest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Inlämingsuppgifter.uppgift1Greenest" />
+      <option name="MAIN_CLASS_NAME" value="Inlämingsuppgifter.uppgift1Greenest.VäxterTest" />
+      <option name="METHOD_NAME" value="testPalmTypNäringsVätska" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VäxterTest.testKöttättandeväxterMängdNäringsVätska" />
+        <item itemvalue="JUnit.VäxterTest.testKaktusMängdNäringsVätska" />
+        <item itemvalue="JUnit.VäxterTest.testPalmMängdNäringsVätska" />
+        <item itemvalue="JUnit.VäxterTest" />
+        <item itemvalue="JUnit.VäxterTest.testPalmTypNäringsVätska" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="defd3584-83b7-4c50-9f7b-8f2acc05a802" name="Changes" comment="" />
+      <created>1695904832144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695904832144</updated>
+      <workItem from="1695904833168" duration="5000" />
+      <workItem from="1695904845020" duration="8600000" />
+      <workItem from="1695919334883" duration="1265000" />
+      <workItem from="1695921976187" duration="543000" />
+      <workItem from="1696069026388" duration="1249000" />
+      <workItem from="1696145278923" duration="127000" />
+      <workItem from="1696146013430" duration="7082000" />
+      <workItem from="1696265208765" duration="43000" />
+      <workItem from="1696275165622" duration="159000" />
+      <workItem from="1696323140050" duration="3637000" />
+      <workItem from="1696330098502" duration="3363000" />
+      <workItem from="1696337230043" duration="1102000" />
+      <workItem from="1696344939721" duration="67000" />
+      <workItem from="1696352470974" duration="947000" />
+      <workItem from="1696406459968" duration="821000" />
+      <workItem from="1696407297947" duration="1638000" />
+      <workItem from="1696409179435" duration="7156000" />
+      <workItem from="1696425517499" duration="4473000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OOP_homework$VäxterTest_testPalmTypNäringsVätska.ic" NAME="VäxterTest.testPalmTypNäringsVätska Coverage Results" MODIFIED="1696338782243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Inlämingsuppgifter.uppgift1Greenest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OOP_homework$VäxterTest.ic" NAME="VäxterTest Coverage Results" MODIFIED="1696424442752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Inlämingsuppgifter.uppgift1Greenest.*</FILTER>
+    </SUITE>
+  </component>
+</project>
