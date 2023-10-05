@@ -38,8 +38,8 @@ public class Main {
         // Hanterar undantag om ett ogiltigt växtnamn anges
         } catch (IllegalArgumentException e) {
             JOptionPane.showMessageDialog(null,"Tyvärr namnet " + växtensNamn + " hittades inte i systemet");
-            JOptionPane.showMessageDialog(null,"Greenest namnlista:\n" + NamnPåVäxter.IGGE + "\n" + NamnPåVäxter.LAURA
-                    + "\n" + NamnPåVäxter.MEATLOAF + "\n" + NamnPåVäxter.OLOF);
+            JOptionPane.showMessageDialog(null,"Greenest namnlista:\n" + NamnPåVäxter.IGGE.namn + "\n" + NamnPåVäxter.LAURA.namn
+                    + "\n" + NamnPåVäxter.MEATLOAF.namn + "\n" + NamnPåVäxter.OLOF.namn);
         // Hanterar undantag om användaren stänger av programmet
         } catch (NullPointerException e) {
             JOptionPane.showMessageDialog(null,"Du har stängt av programmet");

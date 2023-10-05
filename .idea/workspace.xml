@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="defd3584-83b7-4c50-9f7b-8f2acc05a802" name="Changes" comment="">
+    <list default="true" id="defd3584-83b7-4c50-9f7b-8f2acc05a802" name="Changes" comment="ändring av main och enums">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Inlämingsuppgifter/uppgift1Greenest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämingsuppgifter/uppgift1Greenest/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Inlämingsuppgifter/uppgift1Greenest/NamnPåVäxter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inlämingsuppgifter/uppgift1Greenest/NamnPåVäxter.java" afterDir="false" />
@@ -26,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -66,7 +67,7 @@
       <recent name="Inlämingsuppgifter.uppgift1Greenest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.VäxterTest">
+  <component name="RunManager">
     <configuration name="VäxterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOP_homework" />
       <extension name="coverage">
@@ -148,10 +149,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.VäxterTest" />
         <item itemvalue="JUnit.VäxterTest.testKöttättandeväxterMängdNäringsVätska" />
         <item itemvalue="JUnit.VäxterTest.testKaktusMängdNäringsVätska" />
         <item itemvalue="JUnit.VäxterTest.testPalmMängdNäringsVätska" />
-        <item itemvalue="JUnit.VäxterTest" />
         <item itemvalue="JUnit.VäxterTest.testPalmTypNäringsVätska" />
       </list>
     </recent_temporary>
@@ -188,12 +189,25 @@
       <workItem from="1696446295404" duration="97000" />
       <workItem from="1696446402115" duration="100000" />
       <workItem from="1696446703262" duration="239000" />
-      <workItem from="1696447016892" duration="2291000" />
+      <workItem from="1696447016892" duration="3285000" />
+      <workItem from="1696483580817" duration="146000" />
     </task>
+    <task id="LOCAL−00001" summary="ändring av main och enums">
+      <option name="closed" value="true" />
+      <created>1696449667577</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1696449667577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ändring av main och enums" />
+    <option name="LAST_COMMIT_MESSAGE" value="ändring av main och enums" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/OOP_homework$VäxterTest_testPalmTypNäringsVätska.ic" NAME="VäxterTest.testPalmTypNäringsVätska Coverage Results" MODIFIED="1696338782243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
